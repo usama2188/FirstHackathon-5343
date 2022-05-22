@@ -1,0 +1,13 @@
+.ABC{
+    color: green;
+}
+.ABC:hover{
+    color: greenyellow;
+
+}
+.ABD{
+    color: red;
+}
+.ABD:hover{
+    color: rgb(236, 100, 100);
+}

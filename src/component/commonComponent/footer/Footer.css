@@ -1,0 +1,26 @@
+.footer-link{
+    text-decoration: none;
+    color: rgb(169, 169, 169);
+}
+
+.footer-link:hover{
+    text-decoration: none;
+    color: white;
+}
+
+.Admin{
+    text-decoration: none;
+    color: rgb(169, 169, 169);
+}
+
+.Admin:hover{
+    text-decoration: none;
+    color: #25254b;
+}
+
+.footer-heading{
+    color: cornsilk;
+    font-weight: bold;
+    padding-top: 20px;
+
+}

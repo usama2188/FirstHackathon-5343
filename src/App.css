@@ -1,0 +1,71 @@
+:root {
+  --main: #b01b07;
+  --text: #ffffff; 
+    --text1: #0a0101; 
+}
+.heaC1{
+  color: (--text);
+  padding-top: 20px;
+  text-shadow: 0 0 10px #FFFFFF;
+}
+.heaC2{
+  padding-top: 20px;
+  color: (--text1);
+  text-shadow: 0 0 10px #201c1c;
+}
+
+.bgC{
+  background-color: var(--main);
+}
+
+.sec1{
+  background-color: var(--main);
+  color: rgb(233, 224, 224);
+}
+.sec2{
+  background-color: var(--text);
+
+}
+.shaa{
+  box-shadow: 0 1rem 3rem rgba(0,0,0,.175)!important;
+}
+
+
+/* Home Page */
+
+
+.Course_Card{
+
+
+  
+}
+.Course_Card:hover{   
+ 
+  transition: all 0.4s;   
+  transform: scale(1.05);
+
+
+}
+
+.Announcement{
+  color: black;
+  margin-bottom: 50px;
+  
+}
+.Announcement:hover{
+  background-color: #1d1d36;  
+  color: white;
+}
+
+
+
+
+.News{
+  background-color: #1d1d36!important;
+  color: rgb(240, 240, 240);
+  margin-bottom: 50px;
+  
+}
+.News:hover{
+  background-color: #25254b !important; 
+}
